@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="morphia-session:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/morphia_session_jar</output-path>
+    <root id="archive" name="morphia-session.jar">
+      <element id="module-output" name="morphia-session" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/morphia/morphia/1.2.1/morphia-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/thoughtworks/proxytoys/proxytoys/1.0/proxytoys-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.2.2/mongo-java-driver-3.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
